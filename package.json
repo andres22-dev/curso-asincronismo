@@ -4,7 +4,7 @@
   "description": "developer in api with callbacks, promises  and async await",
   "main": "index.js",
   "scripts": {
-    "promise" : "node src/callbacknew/index.js"
+    "promise" : "node src/callbacknew/challange.js"
   },
   "keywords": [
     "callbacks",
